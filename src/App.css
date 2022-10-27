@@ -1,0 +1,67 @@
+main {
+  display: grid;
+  grid-template-areas: "0 1 2"
+                       "3 4 5"
+                       "6 7 8";
+}
+
+main > div {
+  border: 5px solid rgb(255, 255, 255);
+  width: 10rem;
+  height: 10rem;
+  font-size: 8rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+div{
+  color: #13aff0
+}
+main > div:nth-child(1) {
+  border-top: none;
+  border-left: none;
+}
+
+main > div:nth-child(2) {
+  border-top: none;
+}
+
+main > div:nth-child(3) {
+  border-top: none;
+  border-right: none;
+}
+
+main > div:nth-child(4) {
+  border-left: none;
+}
+
+main > div:nth-child(6) {
+  border-right: none;
+}
+
+main > div:nth-child(7) {
+  border-bottom: none;
+  border-left: none;
+}
+
+main > div:nth-child(8) {
+  border-bottom: none;
+}
+
+main > div:nth-child(9) {
+  border-bottom: none;
+  border-right: none;
+}
+
+main > div.primary {
+  background: var(--primary);
+  color: var(--accent);
+}
+
+#reset {
+  position: flex;
+  margin-top: 5px;
+  padding: 12px;
+}
+
