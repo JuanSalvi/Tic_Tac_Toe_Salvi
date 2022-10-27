@@ -3,7 +3,6 @@
 > [CLIC PARA JUGAR](tictactoesalvi.netlify.app).
 
 **Capturas de Juego:**<br><br>
-![image](https://user-images.githubusercontent.com/91103822/198416627-391b2e8d-39f6-45f4-87cf-14400868d96c.png)
-![image](https://user-images.githubusercontent.com/91103822/198416648-3458fc39-17ae-43b9-a1cf-5bf5bbf85555.png)
-![image](https://user-images.githubusercontent.com/91103822/198416711-31c4bdd2-2a13-4528-8cc4-8881446055ba.png)
-![image](https://user-images.githubusercontent.com/91103822/198416818-3c899bcc-8588-4efb-b8e6-083445a8d726.png)
+![image](https://user-images.githubusercontent.com/91103822/198417463-997a1d6a-0b66-4ffa-835c-1b012db2e03b.png)
+![image](https://user-images.githubusercontent.com/91103822/198417504-b7030c40-6956-4696-b895-e5786014ed10.png)
+![image](https://user-images.githubusercontent.com/91103822/198417524-362875ee-9ef1-4372-9140-73a89b14ebd6.png)
